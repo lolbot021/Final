@@ -1,0 +1,13 @@
+{
+  "name": "hreeday-qr-code-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Node.js project that saves a QR code image from text or a URL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
